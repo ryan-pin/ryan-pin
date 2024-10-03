@@ -8,7 +8,6 @@
   
   - ✨ entusiasta de Front-end e UI/UX Design
     
-  -  🔭 Procurando pela primeira oportunidade de emprego
 </p>
 
 ###
